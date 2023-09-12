@@ -25,26 +25,46 @@ Explore some of the projects that I'm really proud of. Feel free to check them o
 
 I believe in continuous learning. Here's a snapshot of my educational journey:
 
-- **Degree:** [Your Degree]
-- **Institution:** [Name of Your School/University]
-- **Year Graduated:** [Year]
+### Bachelor's Degree
+
+- **Degree:** Mathematics
+- **Institution:** Universidad de Cantabria
+- **Year Graduated:** 2022
+
+### Master's Degree
+
+- **Degree:** Master in Big Data, Technologies, and Advanced Analytics 
+- **Institution:** Universidad Pontificia de Comillas, ICAI
+- **Year Graduated:** 2023
+
   
 ## 💼 Work Experience
 
 I've had the privilege of working in various roles and gaining valuable experience along the way:
 
-- **Job Title:** [Your Job Title]
-  - *Company:* [Company Name]
-  - *Year Started:* [Start Year]
-  - *Year Ended:* [End Year (if applicable)]
+### Internships
+
+- **Internship Title:** Bachelor's Internship
+  - *Company:* Centro Tecnológico de Componentes (CTC)
+  - *Year Started:* June 2021
+  - *Year Ended:* December 2021
+ 
+- **Internship Title:** Master's Internship
+  - *Company:* Accenture Applied Intelligence Supply Chain & Operations GLOBAL 
+  - *Year Started:* November 2022
+  - *Year Ended:* May 2023
+
+### Work Experience
+
+- **Job Title:** Data Scientist at Accenture Supply Chain & Operations GLOBAL COE IBERIA
+  - *Company:* Accenture
+  - *Year Started:* May 2023
 
 ## 🤝 Let's Connect!
 
 If you'd like to get in touch or collaborate on a project, please don't hesitate to reach out:
 
-- **Email:** [Your email address]
-- **LinkedIn:** [Link to your LinkedIn profile]
-- **Twitter:** [Link to your Twitter profile]
-- **Other social profiles:** [Links to other profiles if you have them]
+- **Email:** agustin.rodriguezagudo@gmail.com
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/agustín-rodríguez-agudo-4076aa207)
 
 Thanks for stopping by my GitHub repository! I hope you find my projects inspiring and useful. Feel free to drop me a line if you have any questions or just want to chat. 🙌
