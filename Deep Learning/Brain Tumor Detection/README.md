@@ -1,6 +1,6 @@
 # Welcome to the Brain Tumor Detection Project with Deep Learning
 
-![Brain Tumor](brain_tumor_image.jpg)
+![Brain Tumor](image(17).jpg)
 
 🌟 **Step into the world of cutting-edge technology and medical innovation!** 🌟
 
